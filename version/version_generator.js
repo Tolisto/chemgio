@@ -1,3 +1,5 @@
+console.log('init file');
+
 var fs = require('fs');
 var path = require('path');
 var crypto = require('crypto');
