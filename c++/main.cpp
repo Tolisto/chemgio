@@ -94,6 +94,5 @@ int main(int argc, const char * argv[]) {
 //    DayTangDaiNhatLIS();
 //    XauChungDaiNhatLCS();
     XauDoiXungDaiNhatLPS();
-    // template
     return 0;
 }
