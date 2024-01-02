@@ -5,3 +5,7 @@ const A = function() {
 const B = function() {
 	console.log('B');
 }
+
+const C = function() {
+	console.log('C');
+}
