@@ -13,3 +13,7 @@ const C = function() {
 const D = function() {
 	console.log('D');
 }
+
+const E = function() {
+	console.log('E');
+}
