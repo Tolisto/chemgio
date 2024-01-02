@@ -9,3 +9,7 @@ const B = function() {
 const C = function() {
 	console.log('C');
 }
+
+const D = function() {
+	console.log('D');
+}
